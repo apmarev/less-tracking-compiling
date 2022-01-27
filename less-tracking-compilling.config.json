@@ -1,0 +1,6 @@
+{
+  "watchFolder": "src/less",
+  "tmpFolder": "tmp",
+  "lessVarsFile": "src/var.less",
+  "endFolder": "src/css"
+}
